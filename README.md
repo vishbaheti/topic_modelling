@@ -1,4 +1,4 @@
-# Indian Parliament Debates App
+# Topic Modelling - Indian Parliament Debates App
 
 **Welcome to the "Topic Modelling - Indian Parliament Debates App repository"!** This app aims to provide a comprehensive platform for accessing and analyzing parliamentary debates from India's rich political history. With this app, users can gain insights into the intricate dynamics of Indian politics by exploring past debates, identifying key themes, and understanding the evolution of ideas over time.
 
